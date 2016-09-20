@@ -4100,3 +4100,9 @@ body, .mainSpan_wrapper_home, .mainSpan_wrapper, .mainSpan_wrapper_dept, .mainSp
 .lex-alert a {
   color: blue;
 }
+.overlay_text {
+  background-color: white;
+}
+.lex-overlay-padding {
+  padding: 1em;
+}

@@ -1,6 +1,7 @@
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17790
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17794
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17797
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17795
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=18885
-wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17791
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17663
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17684
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17685
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17686
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17687
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17688
+wget http://previous.lexingtonky.gov/Modules/ShowImage.aspx@imageid=17689
